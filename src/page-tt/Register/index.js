@@ -18,6 +18,7 @@ const Register = () => {
         if(response.success){
           message.success(response.message)
           console.log(response.message)
+          window.location.href = "/login";
 
         }
         else{
