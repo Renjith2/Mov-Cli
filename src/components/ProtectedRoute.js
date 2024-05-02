@@ -51,7 +51,7 @@ function ProtectedRoute({children}){
             <div className="header bg-primary flex justify-between p-2">
               <div>
                 <h1 className="text-2xl text-white cursor-pointer"
-                >Book My Show</h1>
+                >EventEase</h1>
               </div>
     
               <div className="bg-white p-1 flex gap-1">
